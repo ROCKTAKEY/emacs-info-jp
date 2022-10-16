@@ -1,0 +1,8 @@
+[[https://github.com/ROCKTAKEY/info-jp][https://img.shields.io/github/tag/ROCKTAKEY/info-jp.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/info-jp.svg?style=flat-square]]
+[[https://codecov.io/gh/ROCKTAKEY/info-jp?branch=master][https://img.shields.io/codecov/c/github/ROCKTAKEY/info-jp.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/info-jp/actions][https://img.shields.io/github/workflow/status/ROCKTAKEY/info-jp/test/master.svg?style=flat-square]]
+* info-jp: Provide info files of Emacs and Emacs Lisp reference translated to Japanese
+Info files are retrived from https://github.com/ayatakesi/ayatakesi.github.io.
+* License
+  This is licensed by GFDL1.3. See original License (https://github.com/ayatakesi/ayatakesi.github.io/blob/master/LICENSE).
